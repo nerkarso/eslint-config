@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/nerkarso/eslint-config/issues"
   },
-  "homepage": "https://github.com/nerkarso/eslint-config#readme"
+  "homepage": "https://github.com/nerkarso/eslint-config#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
